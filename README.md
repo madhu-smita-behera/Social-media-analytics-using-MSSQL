@@ -32,14 +32,16 @@ bookmarks table contains information about post id, user id, and time at which p
 ### 'login' table:
 login table contains information about login id, user id, ip address and the login time. It contains 31 rows.
 
+
 I have used MS-SQL server (Microsoft SQL Server Management Studio-19) for this project. 
+
 
 ## Steps involved:
 1. Creating database and the tables
 2. Insert data into tables
 3. Analyzing data using SQL queries
 
-## Conclusion:
+## Extracting data:
 SQL provides varieties of commands to retrieve meaningful insights from the data. Some common commands I've used in this project are:
 1. SELECT
 2. FROM
@@ -48,6 +50,10 @@ SQL provides varieties of commands to retrieve meaningful insights from the data
 5. GROUP BY
 6. ORDER BY
 7. few functions like aggregrate function(count), operator(like), top, round
+
+## Conclusion:
+
+In conclusion, the integration of social media analytics with MSSQL provides valuable insights into user behaviors and trends. Through robust data processing and analysis, this project empowers businesses to make informed decisions, enhance customer engagement, and optimize marketing strategies for maximum impact in the digital landscape.
 
 ## References:
 I have followed a few sites and projects to obtain the dataset and queries which need to be worked on.
