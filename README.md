@@ -33,7 +33,7 @@ bookmarks table contains information about post id, user id, and time at which p
 login table contains information about login id, user id, ip address and the login time. It contains 31 rows.
 
 
-I have used MS-SQL server (Microsoft SQL Server Management Studio-19) for this project. 
+##### I have used MS-SQL server (Microsoft SQL Server Management Studio-19) for this project. 
 
 
 ## Steps involved:
